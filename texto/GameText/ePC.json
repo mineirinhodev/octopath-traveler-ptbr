@@ -1,0 +1,18 @@
+{
+"ePC_STATUS_00": "HP Máx.",
+"ePC_STATUS_01": "SP Máx.",
+"ePC_STATUS_02": "Atq. Fís.",
+"ePC_STATUS_03": "Atq. Elem.",
+"ePC_STATUS_04": "Def. Fís.",
+"ePC_STATUS_05": "Def. Elem.",
+"ePC_STATUS_06": "Precisão",
+"ePC_STATUS_07": "Evasão",
+"ePC_STATUS_08": "Velocidade",
+"ePC_STATUS_09": "HP",
+"ePC_STATUS_10": "SP",
+"ePC_STATUS_11": "Crítico",
+"ePC_STATUS_12": "Atributos",
+"ePC_STATUS_13": "Lv.",
+"ePC_STATUS_14": "BP",
+"ePC_STATUS_15": "Impulso"
+}

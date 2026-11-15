@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+# arquivos do jogo e mod montado
+*.pak
+*.uasset
+*.uexp
+*.img
+orig/
+build/
+*.zip

@@ -1,0 +1,15 @@
+{
+"eSAVELOAD_HELP_SAVE": "Selecione um espaço para salvar o jogo.",
+"eSAVELOAD_HELP_LOAD": "Selecione um jogo salvo para carregar.",
+"eSAVELOAD_SAVE_MSG_1": "Salvar o jogo neste espaço?",
+"eSAVELOAD_SAVE_MSG_2": "Sobrescrever o jogo salvo existente?",
+"eSAVELOAD_SAVE_MSG_3": "Salvando...\\nNão desligue o\\nNintendo Switch™.",
+"eSAVELOAD_SAVE_MSG_4": "Jogo salvo com sucesso.",
+"eSAVELOAD_LOAD_MSG_1": "Carregar este jogo salvo?",
+"eSAVELOAD_NO_DATA": "Vazio",
+"eSAVELOAD_AUTOSAVING": "Salvando automaticamente...",
+"eSAVELOAD_AUTOSAVE_SLOT": "Autosave",
+"eSAVELOAD_ITEM_LOAD_FROM_TRIAL": "Continuar do jogo salvo da versão demo.",
+"eSAVELOAD_TITLE_LOAD_FROM_TRIAL": "Carregar jogo salvo da versão demo.",
+"eSAVELOAD_CONFIRM_LOAD_FROM_TRIAL": "Retomar a partir dos dados salvos da versão demo?"
+}
